@@ -10,7 +10,7 @@
 <h3>1. Clone the repository:</h3>
 
 ```
-git clone https://github.com/ThomasJanssen-tech/Chatbot-with-RAG-and-LangChain.git
+git clone https://github.com/surajbhagat29/Chatbot-with-RAG-and-LangChain.git
 cd Chatbot-with-RAG-and-LangChain
 ```
 
